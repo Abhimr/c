@@ -1,2 +1,2 @@
-# c
+# Color Picker
 Created with CodeSandbox
